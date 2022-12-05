@@ -19,6 +19,7 @@ mkdir 01_data 02_orthofinder_run
 
 2 - Let's copy the data, and then clean it.
 ```
+cd ~/Orthofinder_exercise/01_data
 cp /home/data/orthofinder/* .
 # Take a minute or two to get acquainted with the data.
 # Specifically - what do the .faa files contain?
