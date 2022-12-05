@@ -37,7 +37,7 @@ sed -i "/^>/ s/>/>chicken_/" Gallus_gallus.GRCg6a.pep.reduced.faa
 
 4 - Let's run OrthoFinder
 ```
-## I will need you to add some parts to your path (because of the way we have installed our cluster). Copy and paste the following code:
+# Ignore this next line
 PATH="/home/ubuntu/bin:/home/ubuntu/.local/bin:/home/ubuntu/miniconda3/bin:/home/ubuntu/miniconda3/condabin:/home/ubuntu/miniconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/scripts"
 
 # Loading OrthoFinder
